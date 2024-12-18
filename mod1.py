@@ -6,3 +6,4 @@ def randomfunc(var_input):
         print("equal********")
     else:
         print("not equal!!!!!!!!!!!!!!!!!!!!!")
+    print("finish")
